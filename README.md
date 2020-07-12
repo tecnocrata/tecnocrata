@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Bolivian software developer, who loves technology, I have a postgraduate degree in Psychology, I have been a programmer for as long as I can remember, I am a C # veteran, I dedicate many hours to javascript and nodejs, I am increasingly committed to AWS and I am passionate about artificial intelligence, I am a firm believer that machines will rule us one day and I will help them do it 😄.
+I am a Bolivian software developer, who loves technology, I have a postgraduate degree in Psychology, I have been a programmer for as long as I can remember, I am a C# veteran, I dedicate many hours to javascript/nodejs and python, I am increasingly committed to AWS and I am passionate about artificial intelligence, I am a firm believer that machines will rule us one day and I will help them do it 😄.
 
 I contribute to various community projects and I love to share my knowledge, if you need help, don't hesitate to contact me.
 
