@@ -10,10 +10,9 @@ I contribute to various community projects and I love to share my knowledge, if 
 
 #### Contact me
 
-- [Twitter](https://twitter.com/tecnox)
-- [LinkedIn](https://www.linkedin.com/in/tecnocrata/)
-- [E-mail](enrique@ortuno.net)
-- [Facebook]() (don't even think about it)
+[![twitter](https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tecnox)
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tecnocrata/)
+[![email](https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white)](mailto:enrique@ortuno.net)
 
 <!--
 **tecnocrata/tecnocrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
