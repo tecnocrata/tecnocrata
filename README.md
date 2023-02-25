@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Bolivian software developer, who loves technology, I have a postgraduate degree in Psychology, I have been a programmer for as long as I can remember, I am a C# veteran, I dedicate many hours to javascript/nodejs and python, I am increasingly committed to AWS and I am passionate about artificial intelligence, I am a firm believer that machines will rule us one day and I will help them do it 😄.
+I am a Bolivian software developer who loves technology. With a postgraduate degree in Psychology, I have been programming for as long as I can remember. I am a C# veteran and dedicate many hours to Javascript/Node.js and Python. Recently, I have become increasingly committed to AWS and am passionate about artificial intelligence. I firmly believe that machines will rule us one day, and I will be there to help them do it! 😄
 
-I contribute to various community projects and I love to share my knowledge, if you need help, don't hesitate to contact me.
+I also contribute to various community projects and love to share my knowledge. So, if you need any help, please don't hesitate to contact me.
 
 - 🔭 I am currently a Software Architect at [@NiceInContact](https://www.niceincontact.com/)
 - 🤔 I have an outdated [blog](https://geeks.ms/eortuno/)
