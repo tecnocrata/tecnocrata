@@ -4,7 +4,6 @@ I am a Bolivian software engineer who loves technology. I have been programming 
 
 I also contribute to various community projects and love to share my knowledge. So, if you need any help, please don't hesitate to contact me.
 
-- 🔭 I am currently a Software Architect at [@NiceInContact](https://www.niceincontact.com/)
 - 🤔 I have an outdated [blog](https://geeks.ms/eortuno/)
 - ⚡ I also write in [Substack](https://techie.substack.com/) from time to time.
 
