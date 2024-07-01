@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Bolivian software engineer who loves technology. I have been programming for as long as I can remember. I am a C# veteran and dedicate many hours to Javascript/Node.js and Python. I have become increasingly committed to AWS and am passionate about artificial intelligence. I firmly believe that machines will rule us one day, and I will be there to help them do it! 😄
+I am a Bolivian software engineer who loves technology. I have been programming for as long as I can remember. I am a C# veteran and dedicate many hours to Javascript/Node.js, Python, and Rust. I have become increasingly committed to AWS and am passionate about artificial intelligence. I firmly believe that machines will rule us one day, and I will be there to help them do it! 😄
 
 I also contribute to various community projects and love to share my knowledge. So, if you need any help, please don't hesitate to contact me.
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" title="docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
