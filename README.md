@@ -7,7 +7,7 @@ I also contribute to various community projects and love to share my knowledge. 
 - 🤔 I have an outdated [blog](https://geeks.ms/eortuno/)
 - ⚡ I also write in [Substack](https://techie.substack.com/) from time to time.
 
-#### Contact me
+#### Contact me.
 
 [![twitter](https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tecnox)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tecnocrata/)
