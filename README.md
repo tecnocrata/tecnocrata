@@ -15,7 +15,6 @@ I also contribute to various community projects and love to share my knowledge. 
 
 <!--
 **tecnocrata/tecnocrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
