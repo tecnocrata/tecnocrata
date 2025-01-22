@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Bolivian software engineer who loves technology. I have been programming for as long as I can remember. I am a C# veteran and dedicate many hours to Javascript/Node.js, Python, and Rust. I have become increasingly committed to AWS and am passionate about artificial intelligence. I firmly believe that machines will rule us one day, and I will be there to help them do it! 😄
+I am a proud Bolivian software engineer with an enduring passion for technology. Programming has been a part of my life for as long as I can remember. Over the years, I have honed my expertise in C#, while dedicating countless hours to mastering JavaScript/Node.js, Python, and Rust. My commitment to AWS continues to grow, and I am deeply enthusiastic about artificial intelligence—an area I firmly believe will shape the future. When machines eventually take the lead, I’ll be ready to lend them a hand! 😄
 
-I also contribute to various community projects and love to share my knowledge. So, if you need any help, please don't hesitate to contact me.
+Beyond my professional pursuits, I actively contribute to various community projects and take great joy in sharing my knowledge. If you ever need assistance, please don’t hesitate to reach out—I’m always happy to help!
 
 - 🤔 I have an outdated [blog](https://geeks.ms/eortuno/)
 - ⚡ I also write in [Substack](https://techie.substack.com/) from time to time.
