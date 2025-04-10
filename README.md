@@ -1,11 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-I am a proud Bolivian software engineer with an enduring passion for technology. Programming has been a part of my life for as long as I can remember. Over the years, I have honed my expertise in C#, while dedicating countless hours to mastering JavaScript/Node.js, Python, and Rust. My commitment to AWS continues to grow, and I am deeply enthusiastic about artificial intelligence—an area I firmly believe will shape the future. When machines eventually take the lead, I’ll be ready to lend them a hand! 😄
+I’m a proud Bolivian software engineer with a lifelong passion for technology and all things code. Programming has been part of my DNA for as long as I can remember. Over the years, I’ve sharpened my skills in C# and poured serious time into mastering JavaScript/Node.js, Python, and Rust. I’m also an ever-growing fan of AWS.
 
-Beyond my professional pursuits, I actively contribute to various community projects and take great joy in sharing my knowledge. If you ever need assistance, please don’t hesitate to reach out—I’m always happy to help!
+Lately, I’ve been diving deep into the world of artificial intelligence—because let’s be honest, when AI takes over the world, someone’s gotta help them run things smoothly! 🤖💪 (Don’t worry, I come in peace.)
 
-- 🤔 I have an outdated [blog](https://geeks.ms/eortuno/)
-- ⚡ I also write in [Substack](https://techie.substack.com/) from time to time.
+Beyond the code, I love contributing to community projects and sharing what I’ve learned along the way. If you ever need a hand—or just want to chat tech—feel free to reach out!
 
 #### Contact me.
 
