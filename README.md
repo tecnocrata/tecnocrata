@@ -6,12 +6,13 @@ Lately, I’ve been diving deep into the world of artificial intelligence—beca
 
 Beyond the code, I love contributing to community projects and sharing what I’ve learned along the way. If you ever need a hand—or just want to chat tech—feel free to reach out!
 
+<!--
 #### Contact me.
 
 [![twitter](https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tecnox)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tecnocrata/)
 [![email](https://img.shields.io/badge/email-red?style=for-the-badge&logo=email&logoColor=white)](mailto:enrique@ortuno.net)
-
+-->
 <!--
 **tecnocrata/tecnocrata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
