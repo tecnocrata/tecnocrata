@@ -51,5 +51,6 @@ Here are some ideas to get you started:
 
 ### :fire: Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=tecnocrata&theme=radical)](https://git.io/streak-stats)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tecnocrata&theme=dark&hide_border=true&area=true&area_color=0078D4&line=0078D4&point=FF6B35" alt="Gráfico de actividad de GitHub de Gisela Torres" width="95%"/>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tecnocrata&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
